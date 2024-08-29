@@ -1,6 +1,6 @@
 let nomeHeroi = "solar";
 let experienciaDoHeroi = 9000;
-let nivelDoHeroi = "platina"
+let nivelDoHeroi;
 
 switch (true) {
     case experienciaDoHeroi >= 0 && experienciaDoHeroi <= 1000:
